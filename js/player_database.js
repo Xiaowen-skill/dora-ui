@@ -6,21 +6,21 @@ var myPlaylist = new jPlayerPlaylist({
 		cssSelectorAncestor: "#jp_container_N"
 	},
 	[{
-			title: "Ellens Gesang III D839",
-			artist: "Geoffrey Parsons",
-			mp3: "http://music.163.com/song/media/outer/url?id=16691428.mp3  ",
+			title: "鬼迷心窍",
+			artist: "李宗盛",
+			mp3: "http://music.163.com/song/media/outer/url?id=108740.mp3  ",
 			poster: "http://p1.music.126.net/wAIlwR4SxuZg_ZMwgmSYcg==/3386495814257726.jpg?param=130y130"
 		},
 		{
-			title: "默",
-			artist: "那英",
-			mp3: "http://music.163.com/song/media/outer/url?id=31473269.mp3 ",
+			title: "给自己的歌",
+			artist: "李宗",
+			mp3: "http://music.163.com/song/media/outer/url?id=394670.mp3 ",
 			poster: "http://p1.music.126.net/OCGt5ln0lPPtPbVJ3VEKtA==/109951163020570422.jpg?param=130y130"
 		},
 		{
-			title: "Fire",
-			artist: "Said The Sky",
-			mp3: "http://music.163.com/song/media/outer/url?id=435289279.mp3",
+			title: "山丘",
+			artist: "李宗盛",
+			mp3: "http://music.163.com/song/media/outer/url?id=407002091.mp3",
 			poster: "http://p1.music.126.net/tg2zke_mrqwuOPlEIEUjGg==/18294773975127592.jpg?param=130y130"
 		}
 	],
@@ -44,112 +44,112 @@ var latest = [{
 		title: "鬼迷心窍",
 		artist: "李宗盛",
 		mp3: "http://music.163.com/song/media/outer/url?id=108740.mp3",
-		poster: "http://p1.music.126.net/C3C4vPOMsTd_vX9Ccww06Q==/109951163117390906.jpg?param=130y130"
+		poster: "http://p1.music.126.net/XXlcoIURJoLp3D5YcX1V9g==/109951163071279000.jpg?param=130y130"
 	},
 	{
 		title: "给自己的歌",
 		artist: "李宗盛",
 		mp3: "http://music.163.com/song/media/outer/url?id=394670.mp3 ",
-		poster: "http://p1.music.126.net/AKhQSRL6HyZu4YwWg4Wi6A==/109951163060585255.jpg?param=130y130"
+		poster: "http://p1.music.126.net/CZQlP4Qgy2jbk22BKyDkUA==/120946279068589.jpg?param=130y130"
 	},
 	{
 		title: "山丘",
 		artist: "李宗盛",
 		mp3: "http://music.163.com/song/media/outer/url?id=407002091.mp3",
-		poster: "http://p1.music.126.net/6o_M9dSbYPRqKRmwY1bOGg==/109951163073262137.jpg?param=130y130"
+		poster: "http://p2.music.126.net/B1ePGczwQUZueJl70TITWQ==/3287539775420245.jpg?param=130y130"
 	},
 	{
 		title: "当爱已成往事",
 		artist: "李宗盛 / 林忆莲",
 		mp3: "http://music.163.com/song/media/outer/url?id=108370.mp3",
-		poster: "http://p1.music.126.net/7cYhniBuLvU3fvLjeRFeNw==/106652627910735.jpg?param=130y130"
+		poster: "http://p2.music.126.net/a1uV59DV8OJzn4OVXRlLPw==/109951163071276550.jpg?param=130y130"
 	},
 	{
 		title: "飘洋过海来看你",
 		artist: "娃娃",
 		mp3: "http://music.163.com/song/media/outer/url?id=108752.mp3",
-		poster: "http://p1.music.126.net/PzE3JrY7QVqFghK9gJN67A==/109951163050326398.jpg?param=130y130"
+		poster: "http://p1.music.126.net/XXlcoIURJoLp3D5YcX1V9g==/109951163071279000.jpg?param=130y130"
 	},
 	{
 		title: "好久不见",
 		artist: "陈奕迅",
 		mp3: "http://music.163.com/song/media/outer/url?id=65538.mp3",
-		poster: "http://p1.music.126.net/V7YrIWl2ALgg4QZTxD7_rw==/2937895071851575.jpg?param=130y130"
+		poster: "http://p2.music.126.net/o_OjL_NZNoeog9fIjBXAyw==/18782957139233959.jpg?param=130y130"
 	},
 	{
 		title: "富士山下",
 		artist: "陈奕迅",
 		mp3: "http://music.163.com/song/media/outer/url?id=65766.mp3",
-		poster: "http://p1.music.126.net/ktIGtL8eCh6bmDf5a27tFQ==/93458488378205.jpg?param=130y130"
+		poster: "http://p1.music.126.net/PcJq6i7zMcPgudejdn1yeg==/109951163256302356.jpg?param=130y130"
 	},
 	{
 		title: "生而为人",
 		artist: "尚士达",
 		mp3: "http://music.163.com/song/media/outer/url?id=1335350269.mp3",
-		poster: "http://p1.music.126.net/J6m3eJOw32G_wDim2tqloA==/5636096604060170.jpg?param=130y130"
+		poster: "http://p1.music.126.net/dgPK-FDvF92suiQmnl5kCg==/109951163745432466.jpg?param=130y130"
 	},
 	{
 		title: "披着羊皮的狼(国)",
 		artist: "谭咏麟",
 		mp3: "http://music.163.com/song/media/outer/url?id=152517.mp3",
-		poster: "http://p1.music.126.net/j9u_wRtJMhlt64k-ZSUM3Q==/944480488305733.jpg?param=130y130"
+		poster: "http://p1.music.126.net/jiynw5C7gnn8kmpEj-UhDQ==/109951165154275149.jpg?param=130y130"
 	}
 ];
 
 //now
 var popular = [{
-		title: "無神論者のためのセレナータ",
-		artist: "love solfege",
-		mp3: "http://music.163.com/song/media/outer/url?id=22676238.mp3",
-		poster: "http://p1.music.126.net/ek5C5HeDHICGjziHhTMCow==/749866930165203.jpg?param=130y130"
+		title: "讲不出再见",
+		artist: "谭咏麟",
+		mp3: "http://music.163.com/song/media/outer/url?id=152392.mp3",
+		poster: "http://p2.music.126.net/ow3GKMyAg8hdWDRmhKl4iw==/109951163066633801.jpg?param=130y130"
 	},
 	{
-		title: "Proschenie",
-		artist: "love solfege",
-		mp3: "http://music.163.com/song/media/outer/url?id=22676239.mp3",
-		poster: "http://p1.music.126.net/ek5C5HeDHICGjziHhTMCow==/749866930165203.jpg?param=130y130"
+		title: "一生中最爱",
+		artist: "谭咏麟",
+		mp3: "http://music.163.com/song/media/outer/url?id=153784.mp3",
+		poster: "http://p1.music.126.net/EDe8WuEF_RbxugBQJcofXQ==/41781441856503.jpg?param=130y130"
 	},
 	{
-		title: "神の光 -Μοιρα-",
-		artist: "Sound Horizon",
-		mp3: "http://music.163.com/song/media/outer/url?id=22782003.mp3",
-		poster: "http://p1.music.126.net/ykne_IJENLMk5KvNUXC3Xg==/779553744115520.jpg?param=130y130"
+		title: "再见亦是泪",
+		artist: "谭咏麟",
+		mp3: "http://music.163.com/song/media/outer/url?id=152391.mp3",
+		poster: "http://p1.music.126.net/ow3GKMyAg8hdWDRmhKl4iw==/109951163066633801.jpg?param=130y130"
 	},
 	{
-		title: "星女神の巫女 -Αρτεμισια-",
-		artist: "Sound Horizon",
-		mp3: "http://music.163.com/song/media/outer/url?id=816209.mp3",
-		poster: "http://p1.music.126.net/jRkMO3QROnFeVrL2m3XuvQ==/18976471183854535.jpg?param=130y130"
+		title: "爱情陷阱",
+		artist: "谭咏麟",
+		mp3: "http://music.163.com/song/media/outer/url?id=4871718.mp3",
+		poster: "http://p1.music.126.net/QigStkElP-yXC8H8ibnGog==/109951164900283582.jpg?param=130y130"
 	},
 	{
-		title: "石畳の緋い悪魔",
-		artist: "Sound Horizon",
-		mp3: "http://music.163.com/song/media/outer/url?id=816217.mp3",
-		poster: "http://p1.music.126.net/e0tsg402IoJLHyJIx4TWQw==/4451922580867675.jpg?param=130y130"
+		title: "多想在平庸的生活拥抱你",
+		artist: "隔壁老樊",
+		mp3: "http://music.163.com/song/media/outer/url?id=1346104327.mp3",
+		poster: "http://p1.music.126.net/gNbAlXamNjhR2j3aOukNhg==/109951164232796511.jpg?param=130y130"
 	},
 	{
-		title: "この狭い鳥籠の中で",
-		artist: "Sound Horizon",
-		mp3: "http://music.163.com/song/media/outer/url?id=816197.mp3",
-		poster: "http://p1.music.126.net/RNabeevAh1X4_U76fS1FCg==/4415638697151069.jpg?param=130y130"
+		title: "悟空",
+		artist: "戴荃",
+		mp3: "http://music.163.com/song/media/outer/url?id=33162226.mp3",
+		poster: "http://p2.music.126.net/gn4pPKc_Wk3EyByfi86lUQ==/3333719255417035.jpg?param=130y130"
 	},
 	{
-		title: "Secret Track",
-		artist: "Sound Horizon",
-		mp3: "http://music.163.com/song/media/outer/url?id=470573387.mp3",
-		poster: "http://p1.music.126.net/RNabeevAh1X4_U76fS1FCg==/4415638697151069.jpg?param=130y130"
+		title: "画",
+		artist: "赵雷",
+		mp3: "http://music.163.com/song/media/outer/url?id=202369.mp3",
+		poster: "http://p2.music.126.net/wldFtES1Cjnbqr5bjlqQbg==/18876415625841069.jpg?param=130y130"
 	},
 	{
-		title: "a fairy tale",
-		artist: "MUSIRISCA",
-		mp3: "http://music.163.com/song/media/outer/url?id=4922555.mp3",
-		poster: "http://p1.music.126.net/9vinX4XYfdNgSu3pQcWMMg==/2542070884388514.jpg?param=130y130"
+		title: "野子 (Live)",
+		artist: "苏运莹",
+		mp3: "http://music.163.com/song/media/outer/url?id=36229105.mp3",
+		poster: "http://p2.music.126.net/YNDRHrY2eueSPKsKPRGD_Q==/109951165271508129.jpg?param=130y130"
 	},
 	{
-		title: "Prayer",
-		artist: "MUSIRISCA",
-		mp3: "http://music.163.com/song/media/outer/url?id=35504074.mp3",
-		poster: "http://p1.music.126.net/g9dAq3k_Z9gE6GRcZo4XuA==/3420580674756260.jpg?param=130y130"
+		title: "药水歌",
+		artist: "药水哥",
+		mp3: "http://music.163.com/song/media/outer/url?id=1472945318.mp3",
+		poster: "http://p2.music.126.net/hrMf33CzLpvwMMSRsr5VmA==/109951165256910065.jpg?param=130y130"
 	}
 ];
 
