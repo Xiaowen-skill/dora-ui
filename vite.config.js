@@ -9,6 +9,7 @@ export default defineConfig({
     vue(),
     vueJsx(),
   ],
+  base: '/dora-ui',
   build: {
     outDir: 'docs'
   },
